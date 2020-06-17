@@ -1,0 +1,15 @@
+
+public class MilitaryService {
+
+
+	MilitaryService(Boolean Served, int NumbersOfYears, String Profession)
+	{
+		this.NumbersOfYears = NumbersOfYears;
+		this.Profession=Profession;
+	}
+	Boolean Served;
+	int NumbersOfYears;
+String Catagory[] = {"Rear-Soldier","Combat Service Support" ,"Warrior", "National Service"};
+String Profession;
+}
+

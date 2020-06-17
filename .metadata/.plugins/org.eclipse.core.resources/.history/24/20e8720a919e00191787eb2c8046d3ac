@@ -1,0 +1,17 @@
+
+public class PhysicalCharacteristics
+{
+	PhysicalCharacteristics(double Height, Boolean Glasses)
+	{
+this.Height=Height;
+this.Glasses=Glasses;
+	};
+double Height;
+String EyeColor[] = {"Brown", "Blue", "Green", "Gray", "Heterochromia", "Other"};
+String HairColor[] = {"Bald", "Redhead", "Blonde", "Black", "Silver", "White", "Brown", "Platin", "Other"};
+String FacialHair[] = {"None", "Goatee", "Full Beard", "Mustache", "Circle Beard", "Stubble", "Other"};
+Boolean Glasses;
+//Tatto, ethny;
+String BodyType[] = {"Slim", "Fit", "Buff", "Chubby", "Stocky"};
+}
+

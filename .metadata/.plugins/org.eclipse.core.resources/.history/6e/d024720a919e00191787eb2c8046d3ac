@@ -1,0 +1,11 @@
+public class Person {
+	String sex[]= {"Male", "Female"};
+	Location Resience;
+	Religion religion;
+	MilitaryService service;
+	Date Birthdate;
+	Habits BadHabits;
+	Studies education;
+	PhysicalCharacteristics looks;
+	Values ratedValues;
+}

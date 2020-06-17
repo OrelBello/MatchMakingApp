@@ -1,0 +1,12 @@
+import java.io.InputStream;
+import java.util.Scanner;
+
+public class Location {
+	
+	
+	String Region [] = {"Southern District", "Northern District", "Central District", "Judea and Samaria Area", "Tel Aviv District", "Jerusalem District", "Haifa District"};
+	Scanner scn = new Scanner(System.in);
+	/*need to fix it*/
+	String Cities = scn.nextLine();
+	
+}

@@ -1,0 +1,9 @@
+
+public class Religion {
+	String ReligoiusLevel [] = {"Secular" ,"Traditional", "National Religious", "Ultra Orthodox", "Other"};
+	String NumOfPray [] = {"0" , "1" , "2" , "3"};
+	Boolean Shabas;
+	Boolean Kosher;
+	Boolean Modesty;
+	
+}

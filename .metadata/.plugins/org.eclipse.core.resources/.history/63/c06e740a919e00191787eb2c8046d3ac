@@ -1,0 +1,13 @@
+
+
+public class Studies {
+	Studies(int YearOfStudies, String Facility)
+	{
+this.YearOfStudies=YearOfStudies;
+this.Facility = Facility;
+	};
+int YearOfStudies;
+String Subject[] = {"Exact Science", "Software", "Design", "Medical", "Education",  "Art", "Engineering", "Nursing", "Math", "Biology", "Other"}; 
+String Facility;
+Location F_Loaction;
+}
